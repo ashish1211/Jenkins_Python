@@ -11,7 +11,7 @@ colorama==0.4.4
 coverage==5.5
 datacompy==0.7.2
 decorator==4.4.2
-Django==3.1.7
+Django==3.1.8
 dominate==2.6.0
 et-xmlfile==1.0.1
 flake8==3.9.2
